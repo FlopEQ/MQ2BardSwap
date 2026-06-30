@@ -9,8 +9,3 @@
 * Prevented empty or disabled swap commands from firing.
 * Cleared command buffers when a swap entry is disabled.
 * Made list entry creation safer.
-
-### Build & Packaging
-* Added build wiring for the current local MQ source tree.
-* Verified Release x64 build and deployed the test DLL to the test MacroQuest plugins folder.
-
